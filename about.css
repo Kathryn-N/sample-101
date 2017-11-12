@@ -1,0 +1,80 @@
+/* app style */
+html {
+
+  height: 100%;
+
+}
+
+body {
+
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+
+}
+
+a {
+
+  color: #1F1F1F;
+
+}
+
+header {
+
+  height: 100PX;
+  padding: 10px;
+  background-color: #3E3E3E;
+  text-shadow: 4px 4px 4px #010101;
+  color: white;
+  font-size: 22px;
+}
+
+nav {
+
+  width: 200px;
+  min-height: 900px;
+  float: left; /* DONT MODIFY */
+  background: #CD5C5C;
+  margin-right:  20px;
+
+}
+
+nav ul {
+
+  list-style: circle;
+
+}
+
+nav ul li {
+
+  margin-bottom: 5px;
+
+}
+
+img {
+
+  float: right;
+}
+
+section {
+
+  width:  500px;
+  float: left;
+  padding: 5px;
+}
+
+h2 {
+
+  color: #DC143C;
+
+}
+
+footer {
+
+  color: white;
+  clear: left;
+  padding: 10px;
+  background: #CD5C5C;
+  padding: 5px;
+
+}
